@@ -1,5 +1,5 @@
 # Automacao de tarefas
- O projeto consiste em uma aplicação para automação de tarefas, na qual é efetuado o login no sistema, importado a base de dados e cadastrado todos os produtos no sistema, utilizando o comando pyautogui para controle do mouse e teclado. O desafio foi desenvolvido em um dos eventos da Hashtag Programação, usuando a linguagem python como ferramenta.
+ O projeto consiste em uma aplicação para automação de tarefas, na qual é efetuado o login no sistema, importado a base de dados e cadastrado todos os produtos no sistema, utilizando o comando pyautogui para controle do mouse e teclado. O desafio foi desenvolvido em um dos eventos da Hashtag Programação, usando a linguagem python como ferramenta.
 
 # Etapas do projeto
 1 - Entrar no sistema <br>
